@@ -1,0 +1,12 @@
+{
+"student": "Haanee Hirji",
+"timestamp": "yyyy-mm-ddThh:mm:ss.ffffff",
+"count": 4,
+"version": "1.0.0",
+"data": [
+{"id": 1, "courseCode": "IPC144", "courseName": "Intro to Programming using C"},
+{"id": 2, "courseCode": "WEB222", "courseName": "Web Programming Principles"},
+{"id": 3, "courseCode": "OOP345", "courseName": "Object Oriented Programming with C++"},
+{"id": 4, "courseCode": "JAC444", "courseName": "Java Programming for C++ Programmers"},
+ ]
+}
